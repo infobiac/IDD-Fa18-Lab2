@@ -64,6 +64,7 @@ Rotary encoder video [here](https://github.com/infobiac/IDD-Fa18-Lab2/blob/maste
 ## Part D. Make your Arduino sing!
 
 Video [here](https://github.com/infobiac/IDD-Fa18-Lab2/blob/master/data/sound1.MOV).
+
 **a. How would you change the code to make the song play twice as fast?**
 
 We can halve the value of pauseBetweenNotes. For me, I did the following:
